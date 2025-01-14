@@ -1,7 +1,8 @@
 # Hotel-Management-System
 
 Welcome to the Hotel Management System project repository. This web application is designed to facilitate efficient management of hotel operations, including reservations, room services, and guest interactions. It provides a user-friendly interface for both guests and administrative staff to navigate through various functionalities seamlessly.
-
+# PREVIEW
+https://sameeradaveen.github.io/restaurant-automation/
 ## Features
 
 - **Navigation**: The system offers easy navigation through a responsive menu structure, ensuring users can swiftly access different sections such as Appetizers, Main Course, Desserts, and Beverages.
